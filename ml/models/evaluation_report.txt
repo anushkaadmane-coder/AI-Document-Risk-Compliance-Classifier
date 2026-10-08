@@ -1,0 +1,42 @@
+AI DOCUMENT RISK & COMPLIANCE CLASSIFIER
+MODEL EVALUATION REPORT
+============================================================
+
+Total documents: 320
+Training documents: 256
+Testing documents: 64
+
+MODEL PERFORMANCE
+------------------------------------------------------------
+Accuracy : 93.75%
+Precision: 93.87%
+Recall   : 93.75%
+F1 Score : 93.63%
+
+CLASSIFICATION REPORT
+------------------------------------------------------------
+              precision    recall  f1-score   support
+
+    Critical       0.89      1.00      0.94        16
+        High       0.93      0.81      0.87        16
+         Low       1.00      1.00      1.00        16
+      Medium       0.94      0.94      0.94        16
+
+    accuracy                           0.94        64
+   macro avg       0.94      0.94      0.94        64
+weighted avg       0.94      0.94      0.94        64
+
+
+CONFUSION MATRIX
+------------------------------------------------------------
+          Low  Medium  High  Critical
+Low        16       0     0         0
+Medium      0      15     1         0
+High        0       1    13         2
+Critical    0       0     0        16
+
+CONFIDENCE ANALYSIS
+------------------------------------------------------------
+Average confidence : 61.21%
+Minimum confidence: 29.34%
+Maximum confidence: 76.75%

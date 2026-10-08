@@ -1,0 +1,321 @@
+document_id,text,risk_level,policy_category
+DOC-0294,The policy establishes strict controls for highly sensitive personal and financial records. Employees must follow the applicable company policy.,Critical,Financial Compliance
+DOC-0096,The document defines internal access controls for business information. The requirements must be followed by authorized personnel.,Medium,Confidentiality
+DOC-0136,This policy requires employees to protect confidential customer and vendor information. Access should be restricted to approved employees.,Medium,Internal Policy
+DOC-0025,The document contains routine guidelines for submitting internal requests. Access should be restricted to approved employees.,Low,Operations
+DOC-0104,The document requires secure storage of customer information and periodic access reviews. Access should be restricted to approved employees.,Medium,Confidentiality
+DOC-0109,The document requires secure storage of customer information and periodic access reviews. The information should be handled according to company procedures.,Medium,Internal Policy
+DOC-0199,This policy specifies strict controls for transferring customer data to third parties. Employees must follow the applicable company policy.,High,Financial Compliance
+DOC-0190,"The agreement includes personal data, financial information, and strict data retention obligations. Appropriate controls should be maintained throughout the process.",High,Privacy
+DOC-0260,The document contains confidential financial records and creates substantial legal and regulatory exposure. Employees must follow the applicable company policy.,Critical,Financial Compliance
+DOC-0267,This agreement involves regulated financial information and mandatory incident notification requirements. The information should be handled according to company procedures.,Critical,Data Security
+DOC-0065,The document provides standard guidelines for scheduling internal meetings. The requirements must be followed by authorized personnel.,Low,Administration
+DOC-0218,This policy specifies strict controls for transferring customer data to third parties. Appropriate controls should be maintained throughout the process.,High,Privacy
+DOC-0286,This policy requires immediate reporting of serious privacy incidents involving protected customer information. Appropriate controls should be maintained throughout the process.,Critical,Financial Compliance
+DOC-0101,This agreement includes financial information that should only be accessed by authorized personnel. Employees must follow the applicable company policy.,Medium,Data Handling
+DOC-0103,The document defines internal access controls for business information. Appropriate controls should be maintained throughout the process.,Medium,Internal Policy
+DOC-0072,The document contains routine guidelines for submitting internal requests. Employees must follow the applicable company policy.,Low,Administration
+DOC-0145,This document includes vendor information and requires approval before external disclosure. The information should be handled according to company procedures.,Medium,Confidentiality
+DOC-0016,This document contains routine operational information without sensitive business data. The organization must maintain appropriate records.,Low,General Business
+DOC-0092,This agreement includes internal pricing information and restrictions on disclosure. Access should be restricted to approved employees.,Medium,Data Handling
+DOC-0265,This agreement involves highly confidential financial information and strict legal reporting requirements. Access should be restricted to approved employees.,Critical,Regulatory Compliance
+DOC-0034,The document describes standard meeting procedures and internal communication practices. The organization must maintain appropriate records.,Low,Operations
+DOC-0270,"This document involves regulated information and requires strict access controls, encryption, and audit logging. The organization must maintain appropriate records.",Critical,Financial Compliance
+DOC-0144,The agreement contains confidential business information that should not be shared externally. The requirements must be followed by authorized personnel.,Medium,Internal Policy
+DOC-0173,This document contains personally identifiable information and requires strict privacy controls. The information should be handled according to company procedures.,High,Data Security
+DOC-0189,This policy describes processing of sensitive customer information and mandatory security measures. The information should be handled according to company procedures.,High,Financial Compliance
+DOC-0005,The document contains general information about office operations and responsibilities. The requirements must be followed by authorized personnel.,Low,General Business
+DOC-0292,The policy establishes strict controls for highly sensitive personal and financial records. The requirements must be followed by authorized personnel.,Critical,Regulatory Compliance
+DOC-0174,This policy describes processing of sensitive customer information and mandatory security measures. The organization must maintain appropriate records.,High,Financial Compliance
+DOC-0159,This agreement includes internal pricing information and restrictions on disclosure. The organization must maintain appropriate records.,Medium,Data Handling
+DOC-0209,This document requires secure handling of personally identifiable customer information. Access should be restricted to approved employees.,High,Data Security
+DOC-0204,The document contains personal information and requires documented authorization for access. Access should be restricted to approved employees.,High,Privacy
+DOC-0201,This document contains personally identifiable information and requires strict privacy controls. The requirements must be followed by authorized personnel.,High,Financial Compliance
+DOC-0141,This agreement includes financial information that should only be accessed by authorized personnel. Access should be restricted to approved employees.,Medium,Internal Policy
+DOC-0188,This document requires secure handling of personally identifiable customer information. Employees must follow the applicable company policy.,High,Financial Compliance
+DOC-0110,The policy describes procedures for storing customer records and limiting employee access. The requirements must be followed by authorized personnel.,Medium,Internal Policy
+DOC-0052,This document explains normal administrative procedures followed by the organization. Appropriate controls should be maintained throughout the process.,Low,Operations
+DOC-0029,"The document contains general information about company meetings, schedules, and responsibilities. The information should be handled according to company procedures.",Low,Administration
+DOC-0195,This document contains personally identifiable information and requires strict privacy controls. The requirements must be followed by authorized personnel.,High,Privacy
+DOC-0067,The document provides standard guidelines for scheduling internal meetings. The information should be handled according to company procedures.,Low,General Business
+DOC-0007,The document explains ordinary procedures for requesting company resources. The information should be handled according to company procedures.,Low,General Business
+DOC-0290,This policy requires immediate reporting of serious privacy incidents involving protected customer information. The requirements must be followed by authorized personnel.,Critical,Regulatory Compliance
+DOC-0009,This document contains general workplace guidelines and administrative instructions. Employees must follow the applicable company policy.,Low,General Business
+DOC-0163,The document contains sensitive financial information and requires compliance monitoring. Appropriate controls should be maintained throughout the process.,High,Data Security
+DOC-0017,This document describes routine communication and reporting procedures. The information should be handled according to company procedures.,Low,General Business
+DOC-0249,The policy governs sensitive regulated data and requires continuous security monitoring. Access should be restricted to approved employees.,Critical,Regulatory Compliance
+DOC-0013,This document describes standard business processes and general workflow guidelines. Access should be restricted to approved employees.,Low,Operations
+DOC-0244,The agreement involves large volumes of customer data and significant privacy and security obligations. The requirements must be followed by authorized personnel.,Critical,Privacy
+DOC-0066,This document describes standard business processes and general workflow guidelines. Access should be restricted to approved employees.,Low,Administration
+DOC-0108,The document includes customer information and specifies limited access for authorized employees. The requirements must be followed by authorized personnel.,Medium,Internal Policy
+DOC-0084,The document requires secure storage of customer information and periodic access reviews. Employees must follow the applicable company policy.,Medium,Confidentiality
+DOC-0015,The document contains routine operational instructions for maintaining office equipment. The organization must maintain appropriate records.,Low,Operations
+DOC-0298,This policy involves serious compliance obligations related to personal and financial information. Appropriate controls should be maintained throughout the process.,Critical,Regulatory Compliance
+DOC-0193,The document requires encryption and access controls for confidential customer records. Appropriate controls should be maintained throughout the process.,High,Financial Compliance
+DOC-0284,This agreement involves highly confidential financial information and strict legal reporting requirements. The requirements must be followed by authorized personnel.,Critical,Privacy
+DOC-0231,This policy specifies strict controls for transferring customer data to third parties. Appropriate controls should be maintained throughout the process.,High,Privacy
+DOC-0078,The document describes standard meeting procedures and internal communication practices. Access should be restricted to approved employees.,Low,General Business
+DOC-0228,The agreement includes regulatory reporting obligations related to customer data. Access should be restricted to approved employees.,High,Financial Compliance
+DOC-0287,The document contains confidential financial records and creates substantial legal and regulatory exposure. Access should be restricted to approved employees.,Critical,Financial Compliance
+DOC-0276,This agreement involves regulated financial information and mandatory incident notification requirements. The requirements must be followed by authorized personnel.,Critical,Regulatory Compliance
+DOC-0100,This document contains employee records that require controlled access and secure storage. The requirements must be followed by authorized personnel.,Medium,Data Handling
+DOC-0044,This document describes standard business processes and general workflow guidelines. The information should be handled according to company procedures.,Low,Operations
+DOC-0305,The document contains regulated information where unauthorized disclosure could result in substantial penalties. Appropriate controls should be maintained throughout the process.,Critical,Regulatory Compliance
+DOC-0187,The policy requires security reviews and incident reporting for protected business information. Appropriate controls should be maintained throughout the process.,High,Financial Compliance
+DOC-0091,This contract contains commercially sensitive information and confidentiality requirements. Access should be restricted to approved employees.,Medium,Internal Policy
+DOC-0036,The document describes standard processes for maintaining internal records. Appropriate controls should be maintained throughout the process.,Low,Operations
+DOC-0051,The document contains routine operational instructions for maintaining office equipment. Appropriate controls should be maintained throughout the process.,Low,Administration
+DOC-0003,This document describes standard business processes and general workflow guidelines. Appropriate controls should be maintained throughout the process.,Low,General Business
+DOC-0200,The document requires encryption and access controls for confidential customer records. Access should be restricted to approved employees.,High,Data Security
+DOC-0150,The document specifies retention periods for business records and internal communications. Appropriate controls should be maintained throughout the process.,Medium,Confidentiality
+DOC-0120,This document contains employee records that require controlled access and secure storage. Access should be restricted to approved employees.,Medium,Internal Policy
+DOC-0153,The document specifies retention periods for business records and internal communications. Access should be restricted to approved employees.,Medium,Confidentiality
+DOC-0111,This policy describes data retention requirements for internal business records. Access should be restricted to approved employees.,Medium,Confidentiality
+DOC-0312,The agreement involves large volumes of customer data and significant privacy and security obligations. Access should be restricted to approved employees.,Critical,Financial Compliance
+DOC-0178,This policy establishes strict controls for access to sensitive financial records. The organization must maintain appropriate records.,High,Data Security
+DOC-0050,This document contains general workplace guidelines and administrative instructions. The requirements must be followed by authorized personnel.,Low,Administration
+DOC-0281,The policy governs sensitive regulated data and requires continuous security monitoring. Appropriate controls should be maintained throughout the process.,Critical,Data Security
+DOC-0081,The document requires secure storage of customer information and periodic access reviews. Access should be restricted to approved employees.,Medium,Internal Policy
+DOC-0094,The document specifies retention periods for business records and internal communications. The requirements must be followed by authorized personnel.,Medium,Data Handling
+DOC-0293,This policy involves serious compliance obligations related to personal and financial information. The organization must maintain appropriate records.,Critical,Data Security
+DOC-0055,This document explains normal administrative procedures followed by the organization. The information should be handled according to company procedures.,Low,General Business
+DOC-0168,The policy requires security reviews and incident reporting for protected business information. Employees must follow the applicable company policy.,High,Financial Compliance
+DOC-0076,The document contains standard guidelines for organizing internal company events. The information should be handled according to company procedures.,Low,General Business
+DOC-0045,This document explains general employee onboarding procedures and office requirements. The requirements must be followed by authorized personnel.,Low,General Business
+DOC-0057,The document provides general instructions for employees regarding workplace procedures. Appropriate controls should be maintained throughout the process.,Low,Administration
+DOC-0261,This agreement involves regulated financial information and mandatory incident notification requirements. Appropriate controls should be maintained throughout the process.,Critical,Privacy
+DOC-0146,The contract includes business terms that should not be disclosed without authorization. The information should be handled according to company procedures.,Medium,Internal Policy
+DOC-0223,This contract involves third-party processing of sensitive customer information. Appropriate controls should be maintained throughout the process.,High,Privacy
+DOC-0262,The document contains highly sensitive information that could create severe regulatory consequences if disclosed. Access should be restricted to approved employees.,Critical,Financial Compliance
+DOC-0300,This contract permits processing of sensitive personal information and requires strict regulatory compliance. Access should be restricted to approved employees.,Critical,Regulatory Compliance
+DOC-0183,"The agreement includes personal data, financial information, and strict data retention obligations. The information should be handled according to company procedures.",High,Data Security
+DOC-0002,This document explains normal administrative procedures followed by the organization. Access should be restricted to approved employees.,Low,General Business
+DOC-0197,This document requires secure handling of personally identifiable customer information. Employees must follow the applicable company policy.,High,Data Security
+DOC-0095,The document defines internal access controls for business information. The requirements must be followed by authorized personnel.,Medium,Confidentiality
+DOC-0157,The agreement contains confidential business information that should not be shared externally. Employees must follow the applicable company policy.,Medium,Confidentiality
+DOC-0164,This policy specifies strict controls for transferring customer data to third parties. Appropriate controls should be maintained throughout the process.,High,Data Security
+DOC-0185,This document contains personally identifiable information and requires strict privacy controls. The organization must maintain appropriate records.,High,Financial Compliance
+DOC-0175,This policy governs the handling of sensitive personal data and requires restricted access. Appropriate controls should be maintained throughout the process.,High,Financial Compliance
+DOC-0235,This document contains personally identifiable information and requires strict privacy controls. The requirements must be followed by authorized personnel.,High,Data Security
+DOC-0248,This agreement involves regulated financial information and mandatory incident notification requirements. Appropriate controls should be maintained throughout the process.,Critical,Financial Compliance
+DOC-0280,The document contains highly sensitive information that could create severe regulatory consequences if disclosed. Appropriate controls should be maintained throughout the process.,Critical,Financial Compliance
+DOC-0064,The document describes standard processes for maintaining internal records. The requirements must be followed by authorized personnel.,Low,General Business
+DOC-0232,This document requires secure handling of personally identifiable customer information. Access should be restricted to approved employees.,High,Data Security
+DOC-0133,The agreement contains confidential business information that should not be shared externally. The requirements must be followed by authorized personnel.,Medium,Internal Policy
+DOC-0243,The policy governs sensitive regulated data and requires continuous security monitoring. Access should be restricted to approved employees.,Critical,Regulatory Compliance
+DOC-0180,The policy requires reporting of privacy incidents involving customer information. The information should be handled according to company procedures.,High,Privacy
+DOC-0079,The document describes standard meeting procedures and internal communication practices. The organization must maintain appropriate records.,Low,General Business
+DOC-0302,"This document includes sensitive information subject to legal, privacy, security, and regulatory requirements. Employees must follow the applicable company policy.",Critical,Data Security
+DOC-0023,The document contains standard guidelines for organizing internal company events. The requirements must be followed by authorized personnel.,Low,Operations
+DOC-0022,The document contains standard guidelines for organizing internal company events. The organization must maintain appropriate records.,Low,General Business
+DOC-0134,The document defines internal access controls for business information. Access should be restricted to approved employees.,Medium,Data Handling
+DOC-0123,The agreement contains confidential information that must be protected from unauthorized access. The information should be handled according to company procedures.,Medium,Confidentiality
+DOC-0247,The document contains confidential financial records and creates substantial legal and regulatory exposure. The information should be handled according to company procedures.,Critical,Privacy
+DOC-0278,The contract contains sensitive financial and personal information with significant regulatory penalties for violations. The organization must maintain appropriate records.,Critical,Financial Compliance
+DOC-0053,The document contains routine operational instructions for maintaining office equipment. The organization must maintain appropriate records.,Low,Operations
+DOC-0194,The document requires encryption and access controls for confidential customer records. Access should be restricted to approved employees.,High,Privacy
+DOC-0251,This policy involves serious compliance obligations related to personal and financial information. The requirements must be followed by authorized personnel.,Critical,Financial Compliance
+DOC-0316,The document contains highly sensitive information that could create severe regulatory consequences if disclosed. The requirements must be followed by authorized personnel.,Critical,Privacy
+DOC-0056,The document explains ordinary procedures for requesting company resources. The requirements must be followed by authorized personnel.,Low,Administration
+DOC-0048,This document explains standard document management and filing procedures. Employees must follow the applicable company policy.,Low,Administration
+DOC-0275,The policy establishes strict controls for highly sensitive personal and financial records. Appropriate controls should be maintained throughout the process.,Critical,Data Security
+DOC-0215,The document requires encryption and access controls for confidential customer records. The organization must maintain appropriate records.,High,Financial Compliance
+DOC-0250,"The agreement includes sensitive personal data, financial records, and third-party processing obligations. The organization must maintain appropriate records.",Critical,Regulatory Compliance
+DOC-0177,The contract permits third-party access to customer information and requires security controls. Appropriate controls should be maintained throughout the process.,High,Financial Compliance
+DOC-0313,The document permits international transfer of sensitive personal information subject to regulatory restrictions. Appropriate controls should be maintained throughout the process.,Critical,Data Security
+DOC-0006,This document explains general employee onboarding procedures and office requirements. Access should be restricted to approved employees.,Low,General Business
+DOC-0155,This policy requires employees to protect confidential customer and vendor information. Employees must follow the applicable company policy.,Medium,Internal Policy
+DOC-0116,This policy describes data retention requirements for internal business records. Employees must follow the applicable company policy.,Medium,Internal Policy
+DOC-0196,The agreement includes regulatory reporting obligations related to customer data. The information should be handled according to company procedures.,High,Privacy
+DOC-0043,This document explains standard document management and filing procedures. The organization must maintain appropriate records.,Low,General Business
+DOC-0114,This policy requires employees to follow data retention and information handling procedures. Access should be restricted to approved employees.,Medium,Internal Policy
+DOC-0132,The agreement contains confidential business information that should not be shared externally. Access should be restricted to approved employees.,Medium,Data Handling
+DOC-0158,The document requires secure storage of customer information and periodic access reviews. Access should be restricted to approved employees.,Medium,Confidentiality
+DOC-0112,The agreement contains confidential information that must be protected from unauthorized access. The requirements must be followed by authorized personnel.,Medium,Internal Policy
+DOC-0238,This policy specifies strict controls for transferring customer data to third parties. The organization must maintain appropriate records.,High,Privacy
+DOC-0059,The document contains routine guidelines for submitting internal requests. Access should be restricted to approved employees.,Low,Administration
+DOC-0074,The document contains standard guidelines for organizing internal company events. The requirements must be followed by authorized personnel.,Low,Operations
+DOC-0061,This document describes standard travel request and reimbursement procedures. Employees must follow the applicable company policy.,Low,General Business
+DOC-0208,This policy establishes strict controls for access to sensitive financial records. Employees must follow the applicable company policy.,High,Data Security
+DOC-0285,"This document involves regulated information and requires strict access controls, encryption, and audit logging. Access should be restricted to approved employees.",Critical,Data Security
+DOC-0139,The policy defines procedures for handling confidential operational information. The organization must maintain appropriate records.,Medium,Confidentiality
+DOC-0291,The contract permits access to highly sensitive customer records and requires extensive security controls. The organization must maintain appropriate records.,Critical,Privacy
+DOC-0172,The agreement involves customer financial information and requires compliance with privacy regulations. Appropriate controls should be maintained throughout the process.,High,Financial Compliance
+DOC-0170,This policy establishes strict controls for access to sensitive financial records. The requirements must be followed by authorized personnel.,High,Financial Compliance
+DOC-0258,The policy governs sensitive regulated data and requires continuous security monitoring. The requirements must be followed by authorized personnel.,Critical,Financial Compliance
+DOC-0161,This policy describes processing of sensitive customer information and mandatory security measures. Employees must follow the applicable company policy.,High,Financial Compliance
+DOC-0299,This policy governs highly sensitive customer information and requires immediate compliance monitoring. Access should be restricted to approved employees.,Critical,Financial Compliance
+DOC-0102,The policy defines procedures for handling confidential operational information. Appropriate controls should be maintained throughout the process.,Medium,Internal Policy
+DOC-0087,The policy defines procedures for handling confidential operational information. Employees must follow the applicable company policy.,Medium,Internal Policy
+DOC-0317,This policy governs highly sensitive customer information and requires immediate compliance monitoring. The organization must maintain appropriate records.,Critical,Privacy
+DOC-0219,This policy describes processing of sensitive customer information and mandatory security measures. The requirements must be followed by authorized personnel.,High,Financial Compliance
+DOC-0020,The document contains routine guidelines for submitting internal requests. The information should be handled according to company procedures.,Low,General Business
+DOC-0229,"The contract includes confidentiality, privacy, and security requirements for sensitive information. Employees must follow the applicable company policy.",High,Privacy
+DOC-0239,This document requires secure handling of personally identifiable customer information. The organization must maintain appropriate records.,High,Financial Compliance
+DOC-0037,This document describes routine purchasing procedures for office supplies. Appropriate controls should be maintained throughout the process.,Low,Operations
+DOC-0289,The document permits international transfer of sensitive personal information subject to regulatory restrictions. The requirements must be followed by authorized personnel.,Critical,Privacy
+DOC-0245,"This document involves regulated information and requires strict access controls, encryption, and audit logging. The requirements must be followed by authorized personnel.",Critical,Privacy
+DOC-0135,The document contains internal company information and requires controlled distribution. The information should be handled according to company procedures.,Medium,Confidentiality
+DOC-0160,The document specifies retention periods for business records and internal communications. Access should be restricted to approved employees.,Medium,Confidentiality
+DOC-0255,The document contains confidential financial records and creates substantial legal and regulatory exposure. Appropriate controls should be maintained throughout the process.,Critical,Financial Compliance
+DOC-0026,The document contains routine guidelines for submitting internal requests. Access should be restricted to approved employees.,Low,Administration
+DOC-0085,The agreement contains confidential business information that should not be shared externally. The requirements must be followed by authorized personnel.,Medium,Internal Policy
+DOC-0152,The agreement contains confidential information that must be protected from unauthorized access. Appropriate controls should be maintained throughout the process.,Medium,Confidentiality
+DOC-0308,"The agreement includes sensitive personal data, financial records, and third-party processing obligations. Access should be restricted to approved employees.",Critical,Privacy
+DOC-0033,This document describes standard travel request and reimbursement procedures. The requirements must be followed by authorized personnel.,Low,General Business
+DOC-0010,This document describes routine communication and reporting procedures. The information should be handled according to company procedures.,Low,Operations
+DOC-0127,The contract includes business terms that should not be disclosed without authorization. The organization must maintain appropriate records.,Medium,Confidentiality
+DOC-0191,The policy requires reporting of privacy incidents involving customer information. The information should be handled according to company procedures.,High,Data Security
+DOC-0167,This contract contains sensitive information that may create significant regulatory obligations. The requirements must be followed by authorized personnel.,High,Privacy
+DOC-0176,The policy requires security reviews and incident reporting for protected business information. The organization must maintain appropriate records.,High,Data Security
+DOC-0098,The document requires secure storage of customer information and periodic access reviews. Employees must follow the applicable company policy.,Medium,Confidentiality
+DOC-0122,This policy describes data retention requirements for internal business records. The requirements must be followed by authorized personnel.,Medium,Data Handling
+DOC-0082,This document includes vendor information and requires approval before external disclosure. Appropriate controls should be maintained throughout the process.,Medium,Internal Policy
+DOC-0012,The document contains general information about office operations and responsibilities. The organization must maintain appropriate records.,Low,Operations
+DOC-0106,This policy requires employees to follow data retention and information handling procedures. Appropriate controls should be maintained throughout the process.,Medium,Internal Policy
+DOC-0271,This agreement involves highly confidential financial information and strict legal reporting requirements. The organization must maintain appropriate records.,Critical,Financial Compliance
+DOC-0221,This document requires secure handling of personally identifiable customer information. Employees must follow the applicable company policy.,High,Privacy
+DOC-0147,This document includes vendor information and requires approval before external disclosure. Employees must follow the applicable company policy.,Medium,Confidentiality
+DOC-0246,The contract contains sensitive financial and personal information with significant regulatory penalties for violations. Access should be restricted to approved employees.,Critical,Data Security
+DOC-0315,This policy requires immediate reporting of serious privacy incidents involving protected customer information. Appropriate controls should be maintained throughout the process.,Critical,Privacy
+DOC-0213,The document requires encryption and access controls for confidential customer records. The organization must maintain appropriate records.,High,Financial Compliance
+DOC-0283,The contract contains sensitive financial and personal information with significant regulatory penalties for violations. The requirements must be followed by authorized personnel.,Critical,Privacy
+DOC-0217,This document contains confidential financial records and requires regulatory compliance. Access should be restricted to approved employees.,High,Privacy
+DOC-0269,This agreement involves highly confidential financial information and strict legal reporting requirements. Access should be restricted to approved employees.,Critical,Data Security
+DOC-0318,This contract permits processing of sensitive personal information and requires strict regulatory compliance. The requirements must be followed by authorized personnel.,Critical,Privacy
+DOC-0236,"The contract includes confidentiality, privacy, and security requirements for sensitive information. Access should be restricted to approved employees.",High,Financial Compliance
+DOC-0086,The policy defines procedures for handling confidential operational information. The organization must maintain appropriate records.,Medium,Data Handling
+DOC-0089,The agreement contains confidential business information that should not be shared externally. The requirements must be followed by authorized personnel.,Medium,Data Handling
+DOC-0220,"The contract includes confidentiality, privacy, and security requirements for sensitive information. The organization must maintain appropriate records.",High,Data Security
+DOC-0303,This agreement involves regulated financial information and mandatory incident notification requirements. The organization must maintain appropriate records.,Critical,Data Security
+DOC-0115,The agreement contains confidential information that must be protected from unauthorized access. The requirements must be followed by authorized personnel.,Medium,Internal Policy
+DOC-0039,This document describes standard business processes and general workflow guidelines. The organization must maintain appropriate records.,Low,General Business
+DOC-0126,The contract includes business terms that should not be disclosed without authorization. The requirements must be followed by authorized personnel.,Medium,Confidentiality
+DOC-0282,This policy requires immediate reporting of serious privacy incidents involving protected customer information. The organization must maintain appropriate records.,Critical,Financial Compliance
+DOC-0149,The document includes customer information and specifies limited access for authorized employees. The organization must maintain appropriate records.,Medium,Confidentiality
+DOC-0151,The contract includes business terms that should not be disclosed without authorization. The information should be handled according to company procedures.,Medium,Data Handling
+DOC-0077,This document contains routine office procedures and general administrative guidelines. The requirements must be followed by authorized personnel.,Low,Administration
+DOC-0263,The document contains regulated information where unauthorized disclosure could result in substantial penalties. The information should be handled according to company procedures.,Critical,Data Security
+DOC-0073,This document describes routine communication and reporting procedures. The requirements must be followed by authorized personnel.,Low,General Business
+DOC-0268,This agreement involves highly confidential financial information and strict legal reporting requirements. The requirements must be followed by authorized personnel.,Critical,Data Security
+DOC-0069,The document contains general information about office operations and responsibilities. Access should be restricted to approved employees.,Low,Administration
+DOC-0273,This contract permits processing of sensitive personal information and requires strict regulatory compliance. Access should be restricted to approved employees.,Critical,Data Security
+DOC-0202,The document requires encryption and access controls for confidential customer records. Access should be restricted to approved employees.,High,Data Security
+DOC-0088,The document includes customer information and specifies limited access for authorized employees. Appropriate controls should be maintained throughout the process.,Medium,Internal Policy
+DOC-0310,This document contains highly sensitive personal and financial information subject to strict regulatory requirements. Employees must follow the applicable company policy.,Critical,Data Security
+DOC-0203,This policy establishes strict controls for access to sensitive financial records. Employees must follow the applicable company policy.,High,Privacy
+DOC-0198,This contract involves third-party processing of sensitive customer information. Access should be restricted to approved employees.,High,Data Security
+DOC-0071,This document explains standard document management and filing procedures. Appropriate controls should be maintained throughout the process.,Low,Administration
+DOC-0018,This document explains standard document management and filing procedures. The requirements must be followed by authorized personnel.,Low,Administration
+DOC-0035,This document explains normal administrative procedures followed by the organization. The requirements must be followed by authorized personnel.,Low,General Business
+DOC-0192,The policy requires security reviews and incident reporting for protected business information. The organization must maintain appropriate records.,High,Privacy
+DOC-0314,This contract permits processing of sensitive personal information and requires strict regulatory compliance. Appropriate controls should be maintained throughout the process.,Critical,Privacy
+DOC-0154,The policy defines procedures for handling confidential operational information. The requirements must be followed by authorized personnel.,Medium,Confidentiality
+DOC-0049,This document describes routine communication and reporting procedures. The information should be handled according to company procedures.,Low,Operations
+DOC-0099,This document contains employee records that require controlled access and secure storage. The requirements must be followed by authorized personnel.,Medium,Confidentiality
+DOC-0038,This document explains standard document management and filing procedures. Appropriate controls should be maintained throughout the process.,Low,Operations
+DOC-0240,This policy specifies strict controls for transferring customer data to third parties. The organization must maintain appropriate records.,High,Financial Compliance
+DOC-0117,This policy requires employees to follow data retention and information handling procedures. The information should be handled according to company procedures.,Medium,Internal Policy
+DOC-0063,The document contains standard guidelines for organizing internal company events. The requirements must be followed by authorized personnel.,Low,General Business
+DOC-0121,The document contains internal company information and requires controlled distribution. Employees must follow the applicable company policy.,Medium,Data Handling
+DOC-0124,This policy describes data retention requirements for internal business records. The information should be handled according to company procedures.,Medium,Confidentiality
+DOC-0230,This policy specifies strict controls for transferring customer data to third parties. The organization must maintain appropriate records.,High,Data Security
+DOC-0107,The document includes customer information and specifies limited access for authorized employees. Appropriate controls should be maintained throughout the process.,Medium,Data Handling
+DOC-0070,This document describes routine purchasing procedures for office supplies. Appropriate controls should be maintained throughout the process.,Low,Operations
+DOC-0181,This policy describes processing of sensitive customer information and mandatory security measures. Employees must follow the applicable company policy.,High,Data Security
+DOC-0131,The document defines internal access controls for business information. The organization must maintain appropriate records.,Medium,Internal Policy
+DOC-0075,This document contains routine office procedures and general administrative guidelines. The information should be handled according to company procedures.,Low,Administration
+DOC-0184,The policy requires reporting of privacy incidents involving customer information. Employees must follow the applicable company policy.,High,Data Security
+DOC-0128,This agreement includes internal pricing information and restrictions on disclosure. The information should be handled according to company procedures.,Medium,Internal Policy
+DOC-0040,The document contains standard guidelines for organizing internal company events. Appropriate controls should be maintained throughout the process.,Low,Administration
+DOC-0214,This policy governs the handling of sensitive personal data and requires restricted access. Appropriate controls should be maintained throughout the process.,High,Financial Compliance
+DOC-0272,The contract permits access to highly sensitive customer records and requires extensive security controls. The requirements must be followed by authorized personnel.,Critical,Privacy
+DOC-0031,This document explains standard document management and filing procedures. The organization must maintain appropriate records.,Low,Administration
+DOC-0119,This policy requires employees to protect confidential customer and vendor information. Access should be restricted to approved employees.,Medium,Data Handling
+DOC-0030,The document contains standard guidelines for organizing internal company events. Access should be restricted to approved employees.,Low,Operations
+DOC-0234,This contract involves third-party processing of sensitive customer information. The information should be handled according to company procedures.,High,Data Security
+DOC-0216,This agreement permits processing of personal information by an external service provider. The information should be handled according to company procedures.,High,Privacy
+DOC-0058,This document contains routine operational information without sensitive business data. Access should be restricted to approved employees.,Low,General Business
+DOC-0024,This document explains normal administrative procedures followed by the organization. Employees must follow the applicable company policy.,Low,Administration
+DOC-0259,This document contains highly sensitive personal and financial information subject to strict regulatory requirements. Employees must follow the applicable company policy.,Critical,Data Security
+DOC-0242,This document contains highly sensitive personal and financial information subject to strict regulatory requirements. Appropriate controls should be maintained throughout the process.,Critical,Regulatory Compliance
+DOC-0004,This document contains general workplace guidelines and administrative instructions. The requirements must be followed by authorized personnel.,Low,Administration
+DOC-0142,This agreement includes internal pricing information and restrictions on disclosure. The information should be handled according to company procedures.,Medium,Internal Policy
+DOC-0080,The document explains ordinary procedures for requesting company resources. Access should be restricted to approved employees.,Low,Operations
+DOC-0041,This document contains general workplace guidelines and administrative instructions. The organization must maintain appropriate records.,Low,Administration
+DOC-0182,This policy specifies strict controls for transferring customer data to third parties. Appropriate controls should be maintained throughout the process.,High,Data Security
+DOC-0062,The document contains routine operational instructions for maintaining office equipment. The organization must maintain appropriate records.,Low,Operations
+DOC-0205,This document requires secure handling of personally identifiable customer information. Access should be restricted to approved employees.,High,Financial Compliance
+DOC-0320,This agreement involves regulated financial information and mandatory incident notification requirements. The requirements must be followed by authorized personnel.,Critical,Data Security
+DOC-0274,The policy establishes strict controls for highly sensitive personal and financial records. The information should be handled according to company procedures.,Critical,Privacy
+DOC-0008,This document contains general workplace guidelines and administrative instructions. Access should be restricted to approved employees.,Low,Administration
+DOC-0032,This document contains general workplace guidelines and administrative instructions. Access should be restricted to approved employees.,Low,Administration
+DOC-0125,This contract contains sensitive commercial terms and confidentiality obligations. The organization must maintain appropriate records.,Medium,Confidentiality
+DOC-0288,The contract contains sensitive financial and personal information with significant regulatory penalties for violations. The organization must maintain appropriate records.,Critical,Privacy
+DOC-0226,This policy specifies strict controls for transferring customer data to third parties. Employees must follow the applicable company policy.,High,Data Security
+DOC-0113,The document specifies retention periods for business records and internal communications. Employees must follow the applicable company policy.,Medium,Confidentiality
+DOC-0279,The policy establishes strict controls for highly sensitive personal and financial records. The information should be handled according to company procedures.,Critical,Financial Compliance
+DOC-0068,This document explains normal administrative procedures followed by the organization. The information should be handled according to company procedures.,Low,Administration
+DOC-0137,This agreement includes financial information that should only be accessed by authorized personnel. The information should be handled according to company procedures.,Medium,Data Handling
+DOC-0105,The document contains internal company information and requires controlled distribution. Access should be restricted to approved employees.,Medium,Confidentiality
+DOC-0027,This document explains normal administrative procedures followed by the organization. Appropriate controls should be maintained throughout the process.,Low,Administration
+DOC-0304,The document permits international transfer of sensitive personal information subject to regulatory restrictions. The information should be handled according to company procedures.,Critical,Regulatory Compliance
+DOC-0256,The document contains regulated information where unauthorized disclosure could result in substantial penalties. The requirements must be followed by authorized personnel.,Critical,Regulatory Compliance
+DOC-0186,This policy describes processing of sensitive customer information and mandatory security measures. Employees must follow the applicable company policy.,High,Data Security
+DOC-0097,The document specifies retention periods for business records and internal communications. Access should be restricted to approved employees.,Medium,Data Handling
+DOC-0028,This document explains general employee onboarding procedures and office requirements. The information should be handled according to company procedures.,Low,Administration
+DOC-0212,This policy establishes strict controls for access to sensitive financial records. Employees must follow the applicable company policy.,High,Data Security
+DOC-0237,"The agreement includes personal data, financial information, and strict data retention obligations. The requirements must be followed by authorized personnel.",High,Financial Compliance
+DOC-0001,The document contains routine operational instructions for maintaining office equipment. The requirements must be followed by authorized personnel.,Low,Administration
+DOC-0264,This agreement involves regulated financial information and mandatory incident notification requirements. Employees must follow the applicable company policy.,Critical,Financial Compliance
+DOC-0319,The document permits international transfer of sensitive personal information subject to regulatory restrictions. The information should be handled according to company procedures.,Critical,Financial Compliance
+DOC-0060,The document explains ordinary procedures for requesting company resources. The requirements must be followed by authorized personnel.,Low,Administration
+DOC-0309,The contract permits access to highly sensitive customer records and requires extensive security controls. The requirements must be followed by authorized personnel.,Critical,Privacy
+DOC-0130,This contract contains sensitive commercial terms and confidentiality obligations. The requirements must be followed by authorized personnel.,Medium,Internal Policy
+DOC-0162,This contract contains sensitive information that may create significant regulatory obligations. The requirements must be followed by authorized personnel.,High,Financial Compliance
+DOC-0046,This document describes standard business processes and general workflow guidelines. Appropriate controls should be maintained throughout the process.,Low,General Business
+DOC-0233,The document contains personal information and requires documented authorization for access. The requirements must be followed by authorized personnel.,High,Financial Compliance
+DOC-0019,The document provides general instructions for employees regarding workplace procedures. Appropriate controls should be maintained throughout the process.,Low,Administration
+DOC-0206,This policy establishes strict controls for access to sensitive financial records. The information should be handled according to company procedures.,High,Data Security
+DOC-0148,The document includes customer information and specifies limited access for authorized employees. The organization must maintain appropriate records.,Medium,Data Handling
+DOC-0254,This contract permits processing of sensitive personal information and requires strict regulatory compliance. The information should be handled according to company procedures.,Critical,Privacy
+DOC-0211,The document requires encryption and access controls for confidential customer records. Appropriate controls should be maintained throughout the process.,High,Financial Compliance
+DOC-0169,This agreement permits processing of personal information by an external service provider. Employees must follow the applicable company policy.,High,Data Security
+DOC-0083,This policy requires employees to follow data retention and information handling procedures. Employees must follow the applicable company policy.,Medium,Confidentiality
+DOC-0054,"The document contains general information about company meetings, schedules, and responsibilities. Employees must follow the applicable company policy.",Low,General Business
+DOC-0165,This agreement permits processing of personal information by an external service provider. The requirements must be followed by authorized personnel.,High,Privacy
+DOC-0171,This contract involves third-party processing of sensitive customer information. Access should be restricted to approved employees.,High,Financial Compliance
+DOC-0210,The agreement includes regulatory reporting obligations related to customer data. Employees must follow the applicable company policy.,High,Financial Compliance
+DOC-0179,"The contract includes confidentiality, privacy, and security requirements for sensitive information. The organization must maintain appropriate records.",High,Financial Compliance
+DOC-0297,This contract includes extensive customer data processing and significant compliance obligations. Employees must follow the applicable company policy.,Critical,Regulatory Compliance
+DOC-0306,"This document involves regulated information and requires strict access controls, encryption, and audit logging. Appropriate controls should be maintained throughout the process.",Critical,Privacy
+DOC-0252,This policy involves serious compliance obligations related to personal and financial information. Appropriate controls should be maintained throughout the process.,Critical,Data Security
+DOC-0224,This contract involves third-party processing of sensitive customer information. Employees must follow the applicable company policy.,High,Financial Compliance
+DOC-0093,The policy describes procedures for storing customer records and limiting employee access. The organization must maintain appropriate records.,Medium,Data Handling
+DOC-0143,The policy defines procedures for handling confidential operational information. The information should be handled according to company procedures.,Medium,Confidentiality
+DOC-0227,The document contains personal information and requires documented authorization for access. The information should be handled according to company procedures.,High,Privacy
+DOC-0266,This policy requires immediate reporting of serious privacy incidents involving protected customer information. Employees must follow the applicable company policy.,Critical,Privacy
+DOC-0241,This policy requires immediate reporting of serious privacy incidents involving protected customer information. The requirements must be followed by authorized personnel.,Critical,Data Security
+DOC-0090,This policy requires employees to protect confidential customer and vendor information. The requirements must be followed by authorized personnel.,Medium,Confidentiality
+DOC-0311,The document contains regulated information where unauthorized disclosure could result in substantial penalties. Employees must follow the applicable company policy.,Critical,Financial Compliance
+DOC-0296,The policy establishes strict controls for highly sensitive personal and financial records. The requirements must be followed by authorized personnel.,Critical,Regulatory Compliance
+DOC-0138,This agreement includes financial information that should only be accessed by authorized personnel. The requirements must be followed by authorized personnel.,Medium,Confidentiality
+DOC-0011,This document contains routine office procedures and general administrative guidelines. Access should be restricted to approved employees.,Low,Administration
+DOC-0301,The contract permits access to highly sensitive customer records and requires extensive security controls. Employees must follow the applicable company policy.,Critical,Privacy
+DOC-0295,"The agreement includes sensitive personal data, financial records, and third-party processing obligations. The requirements must be followed by authorized personnel.",Critical,Financial Compliance
+DOC-0118,This policy requires employees to protect confidential customer and vendor information. The organization must maintain appropriate records.,Medium,Confidentiality
+DOC-0047,The document contains general information about office operations and responsibilities. The information should be handled according to company procedures.,Low,General Business
+DOC-0014,The document contains routine operational instructions for maintaining office equipment. The requirements must be followed by authorized personnel.,Low,Operations
+DOC-0129,The document contains internal company information and requires controlled distribution. The information should be handled according to company procedures.,Medium,Internal Policy
+DOC-0166,This contract contains sensitive information that may create significant regulatory obligations. Access should be restricted to approved employees.,High,Data Security
+DOC-0222,This policy describes processing of sensitive customer information and mandatory security measures. Employees must follow the applicable company policy.,High,Financial Compliance
+DOC-0021,This document explains general employee onboarding procedures and office requirements. The requirements must be followed by authorized personnel.,Low,Administration
+DOC-0307,This policy requires immediate reporting of serious privacy incidents involving protected customer information. Appropriate controls should be maintained throughout the process.,Critical,Regulatory Compliance
+DOC-0042,The document describes standard processes for maintaining internal records. Employees must follow the applicable company policy.,Low,Administration
+DOC-0225,This document contains personally identifiable information and requires strict privacy controls. The organization must maintain appropriate records.,High,Financial Compliance
+DOC-0253,This contract includes extensive customer data processing and significant compliance obligations. Appropriate controls should be maintained throughout the process.,Critical,Privacy
+DOC-0277,The document permits international transfer of sensitive personal information subject to regulatory restrictions. Access should be restricted to approved employees.,Critical,Data Security
+DOC-0257,The policy governs sensitive regulated data and requires continuous security monitoring. The information should be handled according to company procedures.,Critical,Data Security
+DOC-0140,This agreement contains employee information and requires appropriate handling of internal records. The organization must maintain appropriate records.,Medium,Confidentiality
+DOC-0207,This agreement permits processing of personal information by an external service provider. Employees must follow the applicable company policy.,High,Data Security
+DOC-0156,The document specifies retention periods for business records and internal communications. The organization must maintain appropriate records.,Medium,Confidentiality
